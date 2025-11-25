@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f8b1d4a-e4a4-4927-86d0-b87e84f6a937" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FE/admin-product/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FE/admin-product/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FE/admin-product/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FE/admin-product/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FE/admin-product/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/FE/admin-product/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FE/admin-product/src/App.test.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FE/admin-product" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="35n2o0R1ygoNqdU0hBX0cY1ShMG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/CSC12005_Seminar"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f8b1d4a-e4a4-4927-86d0-b87e84f6a937" name="Changes" comment="" />
+      <created>1763731685513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763731685513</updated>
+    </task>
+    <servers />
+  </component>
+</project>

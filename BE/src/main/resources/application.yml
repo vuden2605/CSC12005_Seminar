@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo-mongo
+  data:
+    mongodb:
+      uri: mongodb://admin:12345@localhost:27017/demoMongoDB?authSource=admin
+  port: 8080
