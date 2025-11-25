@@ -9,7 +9,7 @@
 6. [MongoDB Schema](#mongodb-schema)
 7. [Các tính năng chính](#các-tính-năng-chính)
 8. [Best Practices được áp dụng](#best-practices-được-áp-dụng)
-9. [Hướng dẫn mở rộng](#hướng-dẫn-mở-rộng)
+9. [Tài liệu tham khảo](#tài-liệu-tham-khảo)
 
 ---
 
